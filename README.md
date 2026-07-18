@@ -5,25 +5,24 @@
 
 </div>
 
-<!-- Two columns: left = info card + contribution graph, right = animated portrait -->
+<!-- Row 1: info card + portrait side by side -->
 <div align="center">
 <table>
 <tr>
-<td valign="top" align="center">
-
-<img src="./assets/neofetch.svg" width="440" alt="neofetch card" />
-
-<br/><br/>
-
-<!-- contribution graph (third-party image host; it can see your profile visitors) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=osamabashir07&theme=github-compact&hide_border=true&color=39D353&line=39D353&point=58A6FF&area=true" width="440" alt="contribution graph" />
-
+<td valign="middle" align="center">
+<img src="./assets/neofetch.svg" width="540" alt="neofetch card" />
 </td>
-<td valign="top" align="center">
-
-<img src="./assets/portrait.svg" width="320" alt="ascii portrait" />
-
+<td valign="middle" align="center">
+<img src="./assets/portrait.svg" width="380" alt="ascii portrait" />
 </td>
 </tr>
 </table>
+</div>
+
+<!-- Row 2: contribution graph on its own, full width -->
+<div align="center">
+
+<!-- third-party image host; it can see your profile visitors -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=osamabashir07&theme=github-compact&hide_border=true&color=39D353&line=39D353&point=58A6FF&area=true" width="900" alt="contribution graph" />
+
 </div>
