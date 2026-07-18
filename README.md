@@ -20,30 +20,9 @@
 
 </div>
 
----
-
-### `~/portrait`
-
-<!-- Replace everything between the ``` fences with your own ASCII portrait.
-     Generate from a photo (see DEPLOY.md) or ask Claude to convert one. -->
-
-```text
-                    ....
-                .xXXXXXXx.
-              .XXXXXXXXXXXX.
-             xXXX'      `XXXx           << your ASCII portrait goes here >>
-            XXX'          `XXX
-            XX'    ^    ^    `XX         replace this placeholder with a real
-            XX    (o )  (o )   XX         conversion of your own photo
-            XX    .    <>    .  XX
-            `XX    `.____.'   XX'        (jp2a / ascii-image-converter, or ask
-             XXx            xXX           Claude to convert a photo for you)
-              `XXXx......xXXX'
-                `XXXXXXXX'
-                  ``````
-```
-
----
+<div align="center">
+<img src="./assets/portrait.svg" alt="ascii portrait" width="460" />
+</div>
 
 <div align="center">
 
