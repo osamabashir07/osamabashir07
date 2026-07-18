@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-<img src="./assets/portrait.svg" alt="ascii portrait" width="440" />
+<img src="./assets/portrait.svg" alt="ascii portrait" width="540" />
 </div>
 
 <div align="center">
