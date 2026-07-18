@@ -47,17 +47,9 @@
 
 <div align="center">
 
-### the snake eats my contributions
+### my contribution graph
 
-<!-- Generated on a schedule by the "generate snake" GitHub Action. -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/osamabashir07/osamabashir07/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/osamabashir07/osamabashir07/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/osamabashir07/osamabashir07/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<br/>
-<sub>Blank until the workflow runs once — Actions tab → "generate snake" → Run workflow.</sub>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=osamabashir07&theme=github-compact&hide_border=true&color=39D353&line=39D353&point=58A6FF&area=true" alt="contribution graph" />
 
 </div>
 
